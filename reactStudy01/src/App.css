@@ -1,0 +1,6 @@
+.wrap {
+  display: flex;
+}
+select {
+  border: 0px;
+}
