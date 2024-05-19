@@ -1,8 +1,9 @@
-# React + Vite
+# 학습 내용
+- react todo List 클론 코딩
+- 객체 형태의 요소들을 useState로 다루는 방법 학습
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## node moudle
+- 노드 모듈 설치
+```
+npm install
+```
