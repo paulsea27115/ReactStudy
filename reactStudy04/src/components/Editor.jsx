@@ -20,8 +20,8 @@ const Editor = ({ onCreate }) => {
   };
 
   const onKeyDown = (e)=>{
-    e.preventDefault();
     if(e.key==="Enter"){
+      e.preventDefault();
       onSubmit();
     }
   }
